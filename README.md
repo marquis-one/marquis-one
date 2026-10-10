@@ -32,8 +32,8 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Statistik GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?marquis-one=marquis-one&show_icons=true&theme=radical&hide_border=true" alt="Statistik GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marquis-one&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
