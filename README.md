@@ -32,7 +32,7 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?marquis-one=marquis-one&show_icons=true&theme=radical&hide_border=true" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?marquis-one=USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Statistik GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marquis-one&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
